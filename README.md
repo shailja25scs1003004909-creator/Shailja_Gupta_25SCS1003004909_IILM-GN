@@ -1,5 +1,5 @@
 # Shailja_Gupta_25SCS1003004909_IILM-GN
-# Wildlife Species Path Prediction using Machine Learning
+# AI-Enhanced Wildlife Corridor Identification and Leopard Movement Prediction
 
 ## Project Description
 This project predicts the movement path of wildlife species using machine learning and geospatial data. The model analyzes environmental and spatial data to predict the most likely path taken by animals.
